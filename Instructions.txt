@@ -1,0 +1,16 @@
+[ Before running the .py file:
+
+1. Install python in your system.
+
+2. open cmd and run this command on the requirements.txt file directory to install python dependencies,
+   command: pip install -r requirements.txt ]
+
+
+
+How to run it:
+
+1. Make sure defender doesn't block the python file or the exe file.
+
+( If blocked, use the .bat file and copy it inside unorganised folder directory and run it as admin ).
+
+2. Run the program inside the directory or folder which u want to organise.
